@@ -1,4 +1,6 @@
-# nvim-elixir
+# nvim-elixir (with deoplete support)
+
+![autocomplete](autocomplete.gif)
 
 This plugin is a repackage of awetzel's excelent vim-elixir fork
 (https://github.com/awetzel/vim-elixir/tree/nvim-rplugin).
