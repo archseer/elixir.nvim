@@ -1,4 +1,4 @@
-# nvim-elixir (with deoplete support)
+# elixir.nvim (with deoplete support)
 
 ![autocomplete](autocomplete.gif)
 
@@ -28,4 +28,7 @@ Because this fork now contains only neovim specific code, you're advised to also
 run the official package (https://github.com/elixir-lang/vim-elixir/) -- this
 package is intended only as an enhancement.
 
-
+```vim
+Plug 'elixir-lang/vim-elixir'
+Plug 'archSeer/elixir.nvim'
+```
