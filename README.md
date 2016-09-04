@@ -1,5 +1,7 @@
 # elixir.nvim (with deoplete support)
 
+## *This plugin is discontinued in favour of using [alchemist.vim](https://github.com/slashmili/alchemist.vim), which adds proper non-blocking async completion (and a whole ton of other useful features)*
+
 ![autocomplete](autocomplete.gif)
 
 This plugin is a repackage of awetzel's excelent vim-elixir fork
